@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richardisamu
 - 👀 I’m interested in OpenSource Software
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on POP!_OS (just joking)
+- 💞️ I’m looking to collaborate on POP!_OS (just kidding)
 - 📫 How to reach me ... Don't try to reach me!
 
 <!---
